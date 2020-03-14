@@ -11,13 +11,6 @@ const ListView = () => {
                     <ListItem key={item.id} item={item} />
                 ))
             }
-            {
-                data.map(item => (
-                    <pre key={item.id}>
-                        { JSON.stringify(item, null, 4) }
-                    </pre>
-                ))
-            }
         </div>
     )
 }
