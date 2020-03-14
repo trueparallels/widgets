@@ -1,0 +1,18 @@
+{
+  "name": "widget-display",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "chart.js": "^2.9.3",
+    "postcss": "^7.0.27",
+    "react": "^16.0.0",
+    "react-chartjs-2": "^2.9.0",
+    "react-dom": "^16.13.0",
+    "tailwindcss": "^1.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
