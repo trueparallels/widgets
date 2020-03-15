@@ -1,10 +1,14 @@
 import React from 'react'
 
+import Layout from '../layout'
+
 const ChartView = () => {
     return (
-        <div>
-            
-        </div>
+        <Layout>
+            <div>
+                chart
+            </div>
+        </Layout>
     )
 }
 
