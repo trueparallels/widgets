@@ -9,9 +9,9 @@
     "chart.js": "^2.9.3",
     "postcss": "^7.0.27",
     "ramda": "^0.27.0",
-    "react": "15.x || 16.x || 16.4.0-alpha.0911da3",
+    "react": "^16.10.2",
     "react-chartjs-2": "^2.9.0",
-    "react-dom": "15.x || 16.x || 16.4.0-alpha.0911da3",
+    "react-dom": "^16.10.2",
     "tailwindcss": "^1.2.0"
   },
   "devDependencies": {
