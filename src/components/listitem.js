@@ -12,7 +12,7 @@ const ListItem = ({item}) => {
         <div className="border border-gray-700 px-3 py-2 mx-auto my-2 max-w-lg min-w-full sm:min-w-0 sm:w-64">
             <div className="flex flex-col mb-4">
                 <Link to={`/info/${id}`}>
-                    <span className="font-bold text-2xl">{name}</span>
+                    <span className="font-bold text-2xl text-indigo-500 hover:text-indigo-700">{name}</span>
                 </Link>
                 <span className="text-xs text-gray-700">{titleCase(category)}</span>
                 <span className="text-sm">{description}</span>
