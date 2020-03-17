@@ -2,7 +2,9 @@ How to run
 ===========
 Install dependencies: `yarn`
 
-Run: `npx parcel serve index.html` 
+Run: `yarn serve`
+
+The default port is `1234`, but you can pass `--port <port>` to `yarn serve` if you need to change it.
 
 
 Libraries used
