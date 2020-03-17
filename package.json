@@ -2,6 +2,9 @@
   "name": "widget-display",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "serve": "node_modules/parcel-bundler/bin/cli.js serve index.html"
+  },
   "license": "MIT",
   "dependencies": {
     "@reach/router": "^1.3.3",
